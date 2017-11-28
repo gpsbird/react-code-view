@@ -1,4 +1,4 @@
-/*! Last update: Mon Nov 27 2017 16:42:03 GMT+0800 (CST) */
+/*! Last update: Tue Nov 28 2017 15:23:58 GMT+0800 (CST) */
 @charset "utf-8";
 html {
   font-family: sans-serif;
@@ -10741,8 +10741,4 @@ span.CodeMirror-selectedtext { background: none; }
   color: #959595;
   text-transform: uppercase;
   letter-spacing: 1px;
-}
-.code-view-wrapper .code-view .container {
-  width: auto;
-  padding: 60px 20px 20px;
 }
